@@ -4,4 +4,4 @@ def count_bases(dna):
 # Example
 sequence = "AAGCTCGATCG"
 counts = count_bases(sequence)
-print("Base Counts:", counts)
+print("Base Counts: ", counts)
